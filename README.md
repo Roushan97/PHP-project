@@ -21,6 +21,8 @@ How to Run Steps: -
 
 9.Type- http://localhost/roush/index.php
 
-10.Enjoy.
+10.username:- roushan
+   password:-roushan
+11.enjoy
 
 
